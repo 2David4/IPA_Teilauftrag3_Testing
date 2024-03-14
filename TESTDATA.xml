@@ -1,6 +1,6 @@
 <events>
 <event>
-  <id>999</id>
+  <id>1</id>
   <parent></parent>
   <title></title>
   <startDate></startDate>
@@ -31,7 +31,7 @@
   <isArchived></isArchived>
 </event>
 <event>
-  <id>999</id>
+  <id>2</id>
   <parent>Lorem Ipsum</parent>
   <title>Lorem Ipsum</title>
   <startDate>Lorem Ipsum</startDate>
