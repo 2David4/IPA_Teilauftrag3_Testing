@@ -1,0 +1,95 @@
+<events>
+<event>
+  <id>999</id>
+  <parent></parent>
+  <title></title>
+  <startDate></startDate>
+  <endDate></endDate>
+  <status></status>
+  <type></type>
+  <language></language>
+  <location></location>
+  <countParticipants></countParticipants>
+  <minParticipants></minParticipants>
+  <maxParticipants></maxParticipants>
+  <policyMaxParticipants></policyMaxParticipants>
+  <isOnlineRegistration></isOnlineRegistration>
+  <RegistrationDate></RegistrationDate>
+  <CancellationDate></CancellationDate>
+  <isApprovalRequired></isApprovalRequired>
+  <organiser></organiser>
+  <speaker></speaker>
+  <organisation></organisation>
+  <category></category>
+  <descriptionShort></descriptionShort>
+  <description></description>
+  <targetAudience></targetAudience>
+  <topics></topics>
+  <objective></objective>
+  <prerequisite></prerequisite>
+  <additional></additional>
+  <isArchived></isArchived>
+</event>
+<event>
+  <id>999</id>
+  <parent>Lorem Ipsum</parent>
+  <title>Lorem Ipsum</title>
+  <startDate>Lorem Ipsum</startDate>
+  <endDate>Lorem Ipsum</endDate>
+  <status>Lorem Ipsum</status>
+  <type>Lorem Ipsum</type>
+  <language>Lorem Ipsum</language>
+  <location>Lorem Ipsum</location>
+  <countParticipants>Lorem Ipsum</countParticipants>
+  <minParticipants>Lorem Ipsum</minParticipants>
+  <maxParticipants>Lorem Ipsum</maxParticipants>
+  <policyMaxParticipants>Lorem Ipsum</policyMaxParticipants>
+  <isOnlineRegistration>Lorem Ipsum</isOnlineRegistration>
+  <RegistrationDate>Lorem Ipsum</RegistrationDate>
+  <CancellationDate>Lorem Ipsum</CancellationDate>
+  <isApprovalRequired>Lorem Ipsum</isApprovalRequired>
+  <organiser>Lorem Ipsum</organiser>
+  <speaker>Lorem Ipsum</speaker>
+  <organisation>Lorem Ipsum</organisation>
+  <category>Lorem Ipsum</category>
+  <descriptionShort>Lorem Ipsum</descriptionShort>
+  <description>Lorem Ipsum</description>
+  <targetAudience>Lorem Ipsum</targetAudience>
+  <topics>Lorem Ipsum</topics>
+  <objective>Lorem Ipsum</objective>
+  <prerequisite>Lorem Ipsum</prerequisite>
+  <additional>Lorem Ipsum</additional>
+  <isArchived>Lorem Ipsum</isArchived>
+</event>
+<event>
+  <id>Lorem Ipsum</id>
+  <parent></parent>
+  <title></title>
+  <startDate></startDate>
+  <endDate></endDate>
+  <status></status>
+  <type></type>
+  <language></language>
+  <location></location>
+  <countParticipants></countParticipants>
+  <minParticipants></minParticipants>
+  <maxParticipants></maxParticipants>
+  <policyMaxParticipants></policyMaxParticipants>
+  <isOnlineRegistration></isOnlineRegistration>
+  <RegistrationDate></RegistrationDate>
+  <CancellationDate></CancellationDate>
+  <isApprovalRequired></isApprovalRequired>
+  <organiser></organiser>
+  <speaker></speaker>
+  <organisation></organisation>
+  <category></category>
+  <descriptionShort></descriptionShort>
+  <description></description>
+  <targetAudience></targetAudience>
+  <topics></topics>
+  <objective></objective>
+  <prerequisite></prerequisite>
+  <additional></additional>
+  <isArchived></isArchived>
+</event>
+</events>
